@@ -1,6 +1,6 @@
 ---
 :all_players:
-  krishnajain: 22
+  krishnajain: 23
 :game_winning_players:
-  Connect4Bot: 1
-:completed_games: 1
+  Connect4Bot: 2
+:completed_games: 2
